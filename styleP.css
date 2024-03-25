@@ -1,0 +1,16 @@
+.title{
+    text-align: center; 
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+.intro{
+    text-align: center;
+}
+.imagen{
+    
+    display: flex;
+}
+.flex{
+    display: flex;
+}
